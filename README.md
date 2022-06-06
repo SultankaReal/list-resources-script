@@ -4,4 +4,4 @@
 ## В файле folders_list.txt будут содержаться все каталоги облака
 ## В файле list_instances.txt будет список всех ВМ во всех каталогах облака
 ## В файле platform_result.txt будет вывод по количеству ВМ по типам платформ: standard-v2 и standard-v3
-## В файле final.txt будут содержаться все ВМ с типами платорфм standard-v2 и standard-v3
+## В файле final.txt будут содержаться все ВМ с типами платформ standard-v2 и standard-v3
